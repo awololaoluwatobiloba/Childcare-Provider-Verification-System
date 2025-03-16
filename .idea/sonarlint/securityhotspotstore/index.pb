@@ -7,3 +7,5 @@ T
 $contracts/provider-registration.clar,2/3/23557918919da38f07f1311edf10b937aa0dbbb9
 =
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
+S
+#tests/provider-registration.test.ts,4/f/4f59ae49eaefc2445f576ade8a616f564e52da0d
